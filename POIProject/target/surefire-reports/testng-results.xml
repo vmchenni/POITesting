@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestAll" duration-ms="29" started-at="2018-10-07T09:43:34Z" finished-at="2018-10-07T09:43:34Z">
+    <groups>
+    </groups>
+    <test name="order" duration-ms="29" started-at="2018-10-07T09:43:34Z" finished-at="2018-10-07T09:43:34Z">
+      <class name="SampleClass2Test">
+        <test-method status="PASS" signature="fnMySecondFunction()[pri:0, instance:SampleClass2Test@28864e92]" name="fnMySecondFunction" duration-ms="0" started-at="2018-10-07T09:43:34Z" finished-at="2018-10-07T09:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnMySecondFunction -->
+      </class> <!-- SampleClass2Test -->
+      <class name="SampleClass1Test">
+        <test-method status="PASS" signature="fnMyFirstFunction()[pri:0, instance:SampleClass1Test@721e0f4f]" name="fnMyFirstFunction" duration-ms="4" started-at="2018-10-07T09:43:34Z" finished-at="2018-10-07T09:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fnMyFirstFunction -->
+      </class> <!-- SampleClass1Test -->
+    </test> <!-- order -->
+  </suite> <!-- TestAll -->
+</testng-results>
